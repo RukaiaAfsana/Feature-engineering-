@@ -1,0 +1,8 @@
+day,temperature,windspeed,event
+1/1/2017,32F,6mph,Rain
+2/1/2017,-99999,7mph,sunny
+3/1/2017,28C,-9999,snow
+4/1/2017,-99999,7,no event
+5/1/2017,32,-999,Rain
+6/1/2017,31,2,sunny
+6/1/2017,34,5,no event
